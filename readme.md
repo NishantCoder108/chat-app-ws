@@ -7,4 +7,8 @@
 5. Package.json file update with `"build": "tsc -b", "start": "node dist/index.js"`
 6. Run `npm run build`
 7. Run `npm run start`
+8. create subscriptions object with rooms and ws
+9. create a function to send message to all the users who are subscribed to that room
+10. create a function to subscribe to a room
+11. If any message from specific room is received, send it to all the users who are subscribed to that room
 7.
