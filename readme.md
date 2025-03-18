@@ -11,4 +11,4 @@
 9. create a function to send message to all the users who are subscribed to that room
 10. create a function to subscribe to a room
 11. If any message from specific room is received, send it to all the users who are subscribed to that room
-7.
+12. we can subscribe by Postman and also from [hoppscotch](https://hoppscotch.io/) for testing purposes

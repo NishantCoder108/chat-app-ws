@@ -26,7 +26,7 @@ wss.on("connection", function connection(userSocket) {
   {
     "type":"SUBSCRIBE",
     "room": "room1"
-}
+}`
 
 -> For sendMessage:
 
